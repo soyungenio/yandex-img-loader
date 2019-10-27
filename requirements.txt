@@ -1,0 +1,6 @@
+jupyterlab
+beautifulsoup4
+matplotlib
+pillow
+aiohttp
+aiofiles
